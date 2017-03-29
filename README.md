@@ -9,3 +9,5 @@
 ### 技术
 1. [阿里云ECS+阿里邮件推送服务安装配置discourse论坛程序](https://github.com/ngxiaoyi/Diary_About_Founding_My_Startup/issues/1)
 
+
+一块自留地，谢绝fork、谢绝PR和提交issue。 ：）
